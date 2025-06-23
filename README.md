@@ -1,5 +1,5 @@
 # Nova Pharmacy Management System
-This project is a comprehensive **relational database system** designed for **Nova**, a hypothetical simulated chain of pharmacies. 
+This DBMS project is a comprehensive **relational database system** designed for **Nova**, a hypothetical simulated chain of pharmacies. 
 It models real-world healthcare and pharmaceutical operations including patient-doctor interactions, prescriptions, drug inventories, pharmacy-company contracts, and more.
 ##  Features
 
@@ -24,3 +24,9 @@ It models real-world healthcare and pharmaceutical operations including patient-
 
 - Oracle SQL
 - PL/SQL
+
+## Group members (in alphabetical order)
+- Aarush K
+- Parth Kulkarni
+- Pranshu Suman
+- Sai Abhinav Addagada
